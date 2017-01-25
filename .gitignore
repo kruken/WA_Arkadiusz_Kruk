@@ -1,0 +1,8 @@
+config/autoload/dev-paml
+config/autoload/production
+.idea/
+csv_files/
+data/
+logs/
+vendor/
+avatar_files/
